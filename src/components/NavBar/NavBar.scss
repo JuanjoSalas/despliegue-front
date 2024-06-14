@@ -1,0 +1,25 @@
+ * {
+     background-color: #212121;
+     box-sizing: border-box;
+ }
+
+.nav-bar {
+     position:fixed;
+     z-index: 1000;
+     bottom: 0;
+     width: 95vw;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: white;
+     padding: 10px;
+     border-top: 2px solid grey;
+   
+ }
+
+ .icon {
+     width: 24px;
+     height: 24px;
+     margin: 0 25px;
+     margin-bottom: 5px;
+ }
